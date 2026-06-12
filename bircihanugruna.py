@@ -17,7 +17,7 @@ GIDEN_KANAL_ID = 1469063262657314868
 SAHIBIN_ID = 1163545676131610704
 OTO_ROL_ID = 1469061013704802538 
 
-YASAKLI_KELIMELER = ["lune", "ecrin", "ecos", "salak", "gerizekalı", "lunecraft"]
+YASAKLI_KELIMELER = ["deneme1", "deneme2", "deneme3", "deneme4", "deneme5", "deneme6"]
 bot_durumu = "AKTIF"
 
 # --- BOT ---
